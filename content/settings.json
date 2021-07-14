@@ -1,24 +1,24 @@
 {
-  "store_id": 4466,
-  "name": "marketingmr1",
   "domain": "marketingmr1.netlify.app",
-  "short_name": "marketingmr1",
-  "description": "marketingmr1",
+  "currency_symbol": "R$",
   "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/marketingmr1",
+  "logo": "/img/uploads/design_sem_nome.png",
+  "name": "marketingmr1",
+  "short_name": "marketingmr1",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
+  "mini_logo": "",
+  "favicon": "/img/uploads/favicon.png",
   "country_code": "BR",
-  "repository": "ecomplus-stores/marketingmr1"
+  "secondary_color": "#393e46",
+  "icon": "/img/icon.png",
+  "store_id": 4466,
+  "description": "marketingmr1",
+  "large_icon": "/img/large-icon.png"
 }
