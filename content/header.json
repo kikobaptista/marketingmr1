@@ -10,8 +10,11 @@
         "link": "/pages/sobre-nos"
       },
       {
-        "title": "Esta loja é um PWA",
+        "title": "Politica de Trocas e Devoluções",
         "link": "/posts/esta-loja-e-um-pwa"
+      },
+      {
+        "title": "Politica de Entrega"
       }
     ],
     "phone_wpp": true,
