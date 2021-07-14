@@ -5,14 +5,15 @@
   },
   "installments": {
     "show": true,
-    "text": "Parcele sem juros"
+    "text": "Parcele em até 3x sem juros"
   },
   "exchange": {
     "show": true,
-    "text": "Não gostou? A primeira troca é gratuita"
+    "text": "Peça também via Whatsapp",
+    "link": "https://api.whatsapp.com/send?phone=5511963942419&text=Ol%C3%A1,%20estava%20no%20site%20e%20preciso%20de%20aux%C3%ADlio"
   },
   "promo": {
     "show": true,
-    "text": "Diferentes promoções ao longo do ano!"
+    "text": "Veja nossas Promoções da Semana!"
   }
 }
