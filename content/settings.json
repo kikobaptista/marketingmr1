@@ -1,7 +1,7 @@
 {
   "domain": "marketingmr1.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#222831",
+  "primary_color": "#2a3f76",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
@@ -14,11 +14,11 @@
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "favicon": "/img/uploads/favicon.png",
+  "favicon": "/img/uploads/ico.png",
   "country_code": "BR",
-  "secondary_color": "#393e46",
-  "icon": "/img/icon.png",
+  "secondary_color": "#348f86",
+  "icon": "/img/uploads/ico.png",
   "store_id": 4466,
   "description": "marketingmr1",
-  "large_icon": "/img/large-icon.png"
+  "large_icon": "/img/uploads/ico.png"
 }
