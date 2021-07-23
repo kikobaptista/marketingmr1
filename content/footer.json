@@ -34,6 +34,11 @@
       "src": "/img/uploads/logo-anvisa.01797254.jpg",
       "link": "https://www.gov.br/anvisa/pt-br",
       "alt": "Anvisa"
+    },
+    {
+      "src": "/img/uploads/download.jfif",
+      "link": "https://transparencyreport.google.com/safe-browsing/search?url=drogazelina.com.br",
+      "alt": "Google Safe Browsing"
     }
   ],
   "payment_methods": {
