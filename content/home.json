@@ -8,6 +8,18 @@
       "mobile_img": "/img/uploads/copia_de_a_sua_drogaria.png"
     },
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "slides": [
+        {
+          "start": "2021-07-23T19:33:03.749Z",
+          "end": "2021-07-23T19:33:03.772Z",
+          "img": "/img/uploads/a_sua_drogaria.png",
+          "mobile_img": "/img/uploads/copia_de_a_sua_drogaria.png"
+        }
+      ]
+    },
+    {
       "type": "info-bar",
       "enabled": true
     },
