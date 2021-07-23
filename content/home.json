@@ -4,8 +4,8 @@
   "sections": [
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/a_sua_drogaria.jpg",
-      "mobile_img": "/img/uploads/copia_de_a_sua_drogaria.jpg"
+      "img": "/img/uploads/a_sua_drogaria.png",
+      "mobile_img": "/img/uploads/copia_de_a_sua_drogaria.png"
     },
     {
       "type": "info-bar",
