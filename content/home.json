@@ -3,6 +3,11 @@
   "meta_description": "Está procurando uma Farmácia e Drogaria com o menor preço e o melhor que entrega em sua casa, acesse nosso site e faça já seu pedido!",
   "sections": [
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/a_sua_drogaria.jpg",
+      "mobile_img": "/img/uploads/copia_de_a_sua_drogaria.jpg"
+    },
+    {
       "type": "banner-slider",
       "autoplay": 9000,
       "slides": [
