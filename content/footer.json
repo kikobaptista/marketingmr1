@@ -29,6 +29,11 @@
       "src": "/img/uploads/agencia-de-criacao-de-site.png",
       "alt": "Configurado por Marketing MR",
       "link": "https://marketingmr.com.br/"
+    },
+    {
+      "src": "/img/uploads/logo-anvisa.01797254.jpg",
+      "link": "https://www.gov.br/anvisa/pt-br",
+      "alt": "Anvisa"
     }
   ],
   "payment_methods": {
