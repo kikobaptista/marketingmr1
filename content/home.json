@@ -8,19 +8,6 @@
       "mobile_img": "/img/uploads/copia_de_a_sua_drogaria.jpg"
     },
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "slides": [
-        {
-          "start": "2021-07-23T19:11:56.061Z",
-          "end": "2021-07-23T19:11:56.081Z",
-          "img": "/img/uploads/a_sua_drogaria.jpg",
-          "mobile_img": "/img/uploads/copia_de_a_sua_drogaria.jpg",
-          "alt": "Farmácia e Drogaria com entrega"
-        }
-      ]
-    },
-    {
       "type": "info-bar",
       "enabled": true
     },
