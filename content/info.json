@@ -5,7 +5,7 @@
   },
   "installments": {
     "show": true,
-    "text": "Parcele em até 3x sem juros"
+    "text": "3x sem juros"
   },
   "exchange": {
     "show": true,
@@ -14,6 +14,6 @@
   },
   "promo": {
     "show": true,
-    "text": "Veja nossas Promoções da Semana!"
+    "text": "Promoções da Semana!"
   }
 }
