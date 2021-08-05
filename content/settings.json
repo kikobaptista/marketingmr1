@@ -3,8 +3,8 @@
   "currency_symbol": "R$",
   "primary_color": "#2a3f76",
   "theme": {
-    "bootswatch": "_",
-    "custom": "clean-dark"
+    "bootswatch": "cerulean",
+    "custom": "_"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/marketingmr1",
