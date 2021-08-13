@@ -1,5 +1,5 @@
 {
   "css": "",
   "html_head": "",
-  "html_body": ""
+  "html_body": "<!-- marketingmr.com.br widget -->\n<script type=\"text/javascript\">\n    (function () {\n        var options = {\n            whatsapp: \"+55(11)963942419\", // WhatsApp number\n            call_to_action: \"Fale Conosco Agora!\", // Call to action\n            position: \"right\", // Position may be 'right' or 'left'\n        };\n        var proto = document.location.protocol, host = \"whatshelp.io\", url = proto + \"//static.\" + host;\n        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = url + '/widget-send-button/js/init.js';\n        s.onload = function () { WhWidgetSendButton.init(host, proto, options); };\n        var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);\n    })();\n</script>\n<!-- /marketingmr.com.br widget -->"
 }
