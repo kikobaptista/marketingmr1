@@ -1,7 +1,8 @@
 {
   "marketing_stripe": {
     "text": "Descontos em Medicamentos de até 90%!",
-    "link": "/promotion"
+    "link": "/promotion",
+    "background": "#348f85"
   },
   "contacts_stripe": {
     "pages": [],
