@@ -1,5 +1,11 @@
 {
-  "sort_categories": [],
+  "sort_categories": [
+    "medicamentos",
+    "mamaesebebes",
+    "suplementosevitaminas",
+    "saude-e-bem-estar"
+  ],
   "phone_wpp": true,
-  "socials": true
+  "socials": true,
+  "alphabetical_order": false
 }
