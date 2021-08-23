@@ -17,8 +17,8 @@
       "/cuidadospessoais?Cuidados Pessoais",
       "/saude-e-bem-estar?Ofertas"
     ],
-    "random": 8,
-    "full_width": true
+    "random": 0,
+    "full_width": false
   },
   "search_input": true
 }
