@@ -10,7 +10,13 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/medicamentos?Medicamentos",
+      "/mamaesebebes?Mamães e Bebês",
+      "/suplementosevitaminas?Suplementos e Vitaminas",
+      "/cuidadospessoais?Cuidados Pessoais",
+      "/saude-e-bem-estar?Ofertas"
+    ],
     "random": 8,
     "full_width": true
   },
