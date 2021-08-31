@@ -29,6 +29,11 @@
       "type": "page-title",
       "title": "Farmácia e Drogaria com o menor preço - Drogazelina",
       "description": "Está procurando uma Farmácia e Drogaria com o menor preço e o melhor que entrega em sua casa, acesse nosso site e faça já seu pedido!"
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "news"
     }
   ]
 }
