@@ -48,9 +48,11 @@
       "description": "Está procurando uma Farmácia e Drogaria com o menor preço e o melhor que entrega em sua casa, acesse nosso site e faça já seu pedido!"
     },
     {
-      "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": "offers"
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 1,
+      "sort": "news"
     }
   ]
 }
