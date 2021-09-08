@@ -7,12 +7,6 @@
       "autoplay": 9000,
       "slides": [
         {
-          "start": "2021-07-23T19:33:03.749Z",
-          "end": "",
-          "img": "/img/uploads/a_sua_drogaria.png",
-          "mobile_img": "/img/uploads/copia_de_a_sua_drogaria.png"
-        },
-        {
           "start": "2021-09-08T13:01:10.601Z",
           "end": "2022-09-30T13:01:10.626Z",
           "img": "/img/uploads/eximia-kera-d.jpg",
@@ -27,6 +21,12 @@
           "mobile_img": "/img/uploads/2.jpg",
           "alt": "Vitamina para Gestante - OGESTAN Plus",
           "link": "https://marketingmr1.netlify.app/ogestan-plus-com-30-capsulas"
+        },
+        {
+          "start": "2021-07-23T19:33:03.749Z",
+          "end": "",
+          "img": "/img/uploads/a_sua_drogaria.png",
+          "mobile_img": "/img/uploads/copia_de_a_sua_drogaria.png"
         }
       ]
     },
