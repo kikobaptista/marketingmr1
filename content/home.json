@@ -53,6 +53,10 @@
       "limit": 12,
       "page": 1,
       "sort": "news"
+    },
+    {
+      "type": "custom-html",
+      "html": "<div class=\"row\" style=\"margin-left: -10px; margin-right: -10px;\">\n<div class=\"col-md-4\" style=\"padding: 10px;\"><a class=\"image-link\" href=\"https://homefarma.far.br/catalogsearch/result/index/?limit=36&amp;q=lavitan\" title=\"Lavitan\"> <img alt=\"Lavitan com o menor pre&ccedil;o\" height=\"269\" src=\"https://homefarma.far.br/media/wysiwyg/banner/bannerpqno_Linha-Lavitan.jpg\" title=\"Lavitan com o menor pre&ccedil;o\" width=\"367\" /> </a></div>\n<div class=\"col-md-4\" style=\"padding: 10px;\"><a class=\"image-link\" href=\"#\"> <img alt=\"Farm&aacute;cia com o menor pre&ccedil;o\" height=\"269\" src=\"{{media url=\"wysiwyg/Marcas-Farmaciasedrogarias/banner/farmacia-com-o-menor-preco.png\"}}\" title=\"Farm&aacute;cia com o menor pre&ccedil;o\" width=\"367\" /> </a></div>\n<div class=\"col-md-4\" style=\"padding: 10px;\"><a class=\"image-link\" href=\"#\"> <img alt=\"Farm&aacute;cia com entrega\" height=\"269\" src=\"{{media url=\"wysiwyg/Marcas-Farmaciasedrogarias/banner/farmacia-com-entrega-rapida.jpg\"}}\" title=\"Farm&aacute;cia com entrega\" width=\"367\" /> </a></div>\n</div>"
     }
   ]
 }
