@@ -9,7 +9,8 @@
       "limit": 12,
       "page": 1,
       "collection_id": "61169e84cfbcd970597d22ff:categories:Ofertas:/saude-e-bem-estar",
-      "sort": "views"
+      "sort": "views",
+      "headless": true
     }
   ],
   "body": "Produtos de Farmácia e Drogaria com o menor preço a pronta entrega para todo o Brasil!"
