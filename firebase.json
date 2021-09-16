@@ -1,6 +1,21 @@
 {
   "hosting": {
     "redirects": [
+             {
+        " fonte " : " / produtos " ,
+        " destino " : " índice " ,
+        " tipo " : 301
+      },
+            {
+        " fonte " : " / sobre " ,
+        " destino " : " / pages / sobre-nos " ,
+        " tipo " : 301
+      },
+                  {
+        " fonte " : " / departamentos / medicamentos " ,
+        " destino " : " / medicamentos " ,
+        " tipo " : 301
+      }
     ],
     "public": "dist",
     "ignore": [
