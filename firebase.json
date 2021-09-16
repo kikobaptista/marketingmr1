@@ -1,17 +1,17 @@
 {
   "hosting": {
     "redirects": [
-             {
+      {
         "source": "/produtos",
         "destination": "index",
         "type": 301
       },
-            {
+      {
         "source": "/sobre",
         "destination": "/pages/sobre-nos",
         "type": 301
       },
-                  {
+      {
         "source": "/departamentos/medicamentos",
         "destination": "/medicamentos",
         "type": 301
