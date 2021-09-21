@@ -8,7 +8,7 @@
       },
       {
         "source": "/sobre",
-        "destination": "/pages/sobre-nos",
+        "destination": "index",
         "type": 301
       },
       {
